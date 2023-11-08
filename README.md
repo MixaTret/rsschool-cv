@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://mixatret.github.io/rsschool-cv/cv
