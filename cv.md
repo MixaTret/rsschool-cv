@@ -28,7 +28,7 @@ Works, AutoCAD
 ---
 ### Code example:
 ```
-    function sum(a, b) {
+    function sumNumbers(a, b) {
     
         return a + b;
       
